@@ -1,0 +1,82 @@
+First Name,Last Name,Email ID,Phone No.,Speaker,Ticket Type,Ticket Tier,Ticket Price,Transaction ID,Ticket Number
+Pallavi,Pandey,pallavi.pandey@krea.edu.in,7759014443,Full-Day,Full-Day,Faculty,₹749.00,110252553632,
+Siddharth ,Pashikanti,siddharth_pashikanti.sias24@krea.ac.in,9989891947,Sarika Singh,Regular,Platinum+,₹199.00,523703481670,SS1-PPR-0002-CF8EAC
+Vishal,Krishnan ,vishal_krishnan.sias23@krea.ac.in,8331999391,Meenakshi Anantram,Regular,Gold,₹99.00,560334902940,MA-GR-0003-671FCD
+Vishal,Krishnan ,vishal_krishnan.sias23@krea.ac.in,8331999391,Sarika Singh,Regular,Gold,₹99.00,523703297221,SS1-GR-0004-D620B5
+Anishka,Daga,anishka_daga.sias23@krea.ac.in,9320135168,Meenakshi Anantram,Regular,Silver,₹79.00,523779896846,MA-SR-0005-0EBBF9
+Krishna Veda,Nadimpalli,krishna_nadimpalli.sias25@krea.ac.in,9632345354,Full-Day,Full-Day,Platinum,₹749.00,523716679755,FD-PF-0006-C72E77
+Dhanak,Parmar,dhanak_parmar.sias25@krea.ac.in,7303112444,Full-Day,Full-Day,Platinum,₹749.00,523716744418,FD-PF-0007-590A29
+Anushka,Aiyer,anushka_aiyer.sias25@krea.ac.in,7353765450,Meenakshi Anantram,Regular,Platinum+,₹199.00,523768255224,MA-PPR-0008-9C1DDF
+Vandita,S Reddy,vandita_srikanthreddy.sias25@krea.ac.in,9321675019,Meenakshi Anantram,Regular,Silver,₹79.00,803388195563,MA-SR-0009-8411C5
+Vandita,S Reddy,vandita_srikanthreddy.sias25@krea.ac.in,9321675019,Sandhya Sriram,Regular,Silver,₹79.00,803388195563,SS2-SR-0010-09A6B9
+Anishka,Singh,anishka_singh.sias24@krea.ac.in,9874723555,Sarika Singh,Regular,Platinum+,₹199.00,809121991378,SS1-PPR-0011-5037EC
+Liya ,Katrela,liya_katrela.sias25@krea.ac.in,6374929247,Full-Day,Full-Day,Platinum,₹749.00,523717233251,FD-PF-0012-EA695E
+Vihaan,Maheshwari,vihaan_maheshwari.sias25@krea.ac.in,7975079430,Full-Day,Full-Day,Platinum,₹749.00,523717233251,FD-PF-0013-C50EC5
+Jiya,Shah,jiya_shah.sias25@krea.ac.in,9353613457,Full-Day,Full-Day,Platinum,₹749.00,523717233251,FD-PF-0014-BD641C
+Pranidhhi,Rareddi,pranidhhi_reddirareddy.sias25@krea.ac.in,8977018100,Full-Day,Full-Day,Platinum,₹749.00,523717233251,FD-PF-0015-C3CBCD
+Jagajeet,K,jagajeet_kathir.mba25@krea.ac.in,9566112201,Pankaj Rai,Regular,Platinum,₹119.00,560357517748,PR-PR-0016-8427AF
+Tara,Srinivasan,tara_srinivasan.sias25@krea.ac.in,8939842519,Sarika Singh,Regular,Platinum,₹119.00,FMPIB3138372147,SS1-PR-0017-3C28DB
+Ananya ,Sarda,ananya_sarda.sias22@krea.ac.in,9819263210,Full-Day,Full-Day,Silver,₹449.00,560372825604,FD-SF-0018-113E3E
+Yuthika,Mehrotra,yuthika_mehrotra.sias24@krea.ac.in,9748879916,Sarika Singh,Regular,Silver,₹79.00,523728959365,SS1-SR-0019-016543
+Bhumika,Arora,bhumika_arora.sias24@krea.ac.in,9625035151,Neeraj Khanna,Regular,Gold,₹99.00,725369601027,NK-GR-0020-0B1EA8
+Manvi,Yadav,manvi_yadav.sias24@krea.ac.in,9236465826,Neeraj Khanna,Regular,Gold,₹99.00,560348944677,NK-GR-0021-83CF2F
+Maya,Achaia,maya_achaia.sias24@krea.ac.in,7022893499,Ananth Padmanabhan,Regular,Silver,₹79.00,560370045142,AP-SR-0022-B5928C
+Rahul,Kumar,rahul_m.mba24@krea.ac.in,8925281822,Pankaj Rai,Regular,Gold,₹99.00,728848630319,PR-GR-0023-3EFF8A
+Rahul,Kumar,rahul_m.mba24@krea.ac.in,8925281822,Ananth Padmanabhan,Regular,Gold,₹99.00,728848630319,AP-GR-0024-18651D
+Vyahruti,Prakya,vyahruti_prakya.sias23@krea.ac.in,7207878036,Ananth Padmanabhan,Regular,Silver,₹79.00,560348437398,AP-SR-0025-952DF6
+Srestha,Majumdar,srestha_majumdar.sias23@krea.ac.in,8178936294,Ananth Padmanabhan,Regular,Silver,₹79.00,689667430503,AP-SR-0026-873268
+Anika,Chakraborty,anika_chakraborty.sias24@krea.ac.in,8095600051,Pankaj Rai,Regular,Silver,₹79.00,523799684701,PR-SR-0027-2F2F06
+Anika,Chakraborty,anika_chakraborty.sias24@krea.ac.in,8095600051,Sarika Singh,Regular,Silver,₹79.00,523799684701,SS1-SR-0028-1CFA23
+Devananda,PK,devananda_pk.sias24@krea.ac.in,6369573867,Sarika Singh,Regular,Silver,₹79.00,523764472633,SS1-SR-0029-2E2F52
+Aadya,Kareti,aadya_kareti.bba25@krea.ac.in,6364314040,Sarika Singh,Regular,Silver,₹79.00,523703990739,SS1-SR-0030-190B2B
+Rhea,Kadam,rhea_kadam.bba24@krea.ac.in,9082913309,Pankaj Rai,Regular,Silver,₹79.00,523700177035,PR-SR-0031-5017A3
+Ishaan,Rajan,ishaanekkanath_rajan.sias25@krea.ac.in,9987540475,Full-Day,Full-Day,Silver,₹449.00,560370340711,FD-SF-0032-A31163
+Bhavatosh,Dam,bhavatosh_dam.sias25@krea.ac.in,9824314651,Full-Day,Full-Day,Silver,₹449.00,523747764451,FD-SF-0033-3DBCAC
+Sanjana,Tangirala,sanjana_tangirala.sias23@krea.ac.in,9677123034,Pankaj Rai,Regular,Gold,₹99.00,523769679414,PR-GR-0034-38A735
+Ayesha,Gupta,ayesha_gupta.sias23@krea.ac.in,9310578943,Ishan Shanavas,Regular,Platinum+,₹199.00,523763085657,IS-PPR-0035-D0D178
+Trishaa,Nair,trishaa_nair.sias25@krea.ac.in,7506450569,Pankaj Rai,Regular,Silver,₹79.00,523786196458,PR-SR-0036-D633DD
+Trishaa,Nair,trishaa_nair.sias25@krea.ac.in,7506450569,Ananth Padmanabhan,Regular,Silver,₹79.00,523786196458,AP-SR-0037-AE5766
+Sahasra,Kuppala,sahasra_kuppala.sias25@krea.ac.in,6302799164,Sandhya Sriram,Regular,Gold,₹99.00,667975116678,SS2-GR-0038-9335D7
+Sahasra,Kuppala,sahasra_kuppala.sias25@krea.ac.in,6302799164,Meenakshi Anantram,Regular,Gold,₹99.00,667975116678,MA-GR-0039-6F8172
+Sahasra,Kuppala,sahasra_kuppala.sias25@krea.ac.in,6302799164,Pankaj Rai,Regular,Gold,₹99.00,667975116678,PR-GR-0040-2662DF
+samiksha,Santhosh,samiksha_santhoshkumar.sias25@krea.ac.in,8925889868,Sandhya Sriram,Regular,Gold,₹99.00,594867309998,SS2-GR-0041-C215E5
+samiksha,Santhosh,samiksha_santhoshkumar.sias25@krea.ac.in,8925889868,Meenakshi Anantram,Regular,Gold,₹99.00,594867309998,MA-GR-0042-2EBF96
+samiksha,Santhosh,samiksha_santhoshkumar.sias25@krea.ac.in,8925889868,Pankaj Rai,Regular,Gold,₹99.00,594867309998,PR-GR-0043-36FD9A
+Siddhant,Gupta,siddhant_gupta.sias25@krea.ac.in,8262068141,Full-Day,Full-Day,Silver,₹449.00,110326604795,FD-SF-0044-DB3726
+Kailash,Prasad,kailash_prasad.sias25@krea.ac.in,9789930742,Full-Day,Full-Day,Silver,₹449.00,560310573573,FD-SF-0045-40936A
+Anshuman,Cherukuri,anshuman_cherukuri.sias25@krea.ac.in,9160000550,Full-Day,Full-Day,Silver,₹449.00,523785191511,FD-SF-0046-D94F2A
+Divy,Khetan,divy_khetan.sias24@krea.ac.in,8928364499,Neeraj Khanna,Regular,Silver,₹79.00,560328273226,NK-SR-0047-0F4A2C
+Divy,Khetan,divy_khetan.sias24@krea.ac.in,8928364499,Pankaj Rai,Regular,Silver,₹79.00,560328273226,PR-SR-0048-F46115
+Vishant,Garga,vishant_garga.sias24@krea.ac.in,8779292601,Neeraj Khanna,Regular,Silver,₹79.00,560328273226,NK-SR-0049-19CAF1
+Vishant,Garga,vishant_garga.sias24@krea.ac.in,8779292601,Pankaj Rai,Regular,Silver,₹79.00,560328273226,PR-SR-0050-08CAC5
+Aditi,Srivastava,aditi_srivastava.sias23@krea.ac.in,7338845127,Sarika Singh,Regular,Silver,₹79.00,110327914444,SS1-SR-0051-A215EA
+Japho,Esther Rani,japho_estherrani.sias24@krea.ac.in,8015279968,Pankaj Rai,Regular,Silver,₹79.00,523725734494,PR-SR-0052-A96D27
+Japho,Esther Rani,japho_estherrani.sias24@krea.ac.in,8015279968,Neeraj Khanna,Regular,Silver,₹79.00,523725734494,NK-SR-0053-A5501B
+Ragini,Gupta,ragini_gupta.sias25@krea.ac.in,8433708960,Full-Day,Full-Day,Silver,₹449.00,523748934188,FD-SF-0054-9CA0A8
+Alisha,Malandkar,alisha_malandkar.sias24@krea.ac.in,9820152779,Pankaj Rai,Regular,Gold,₹99.00,560357613298,PR-GR-0055-76B6BC
+Alisha,Malandkar,alisha_malandkar.sias24@krea.ac.in,9820152779,Sarika Singh,Regular,Platinum,₹119.00,560357613298,SS1-PR-0056-256653
+Alisha,Malandkar,alisha_malandkar.sias24@krea.ac.in,9820152779,Meenakshi Anantram,Regular,Platinum,₹119.00,560357613298,MA-PR-0057-0CD177
+Alisha,Malandkar,alisha_malandkar.sias24@krea.ac.in,9820152779,Neeraj Khanna,Regular,Platinum,₹119.00,560357613298,NK-PR-0058-83ED8F
+Alisha,Malandkar,alisha_malandkar.sias24@krea.ac.in,9820152779,Ananth Padmanabhan,Regular,Platinum,₹119.00,560357613298,AP-PR-0059-55581F
+Alisha,Malandkar,alisha_malandkar.sias24@krea.ac.in,9820152779,Ishan Shanavas,Regular,Platinum,₹119.00,560357613298,IS-PR-0060-247965
+Alisha,Malandkar,alisha_malandkar.sias24@krea.ac.in,9820152779,Sandhya Sriram,Regular,Platinum,₹119.00,560357613298,SS2-PR-0061-7D7B96
+Rishi,TJ,venkatarishiteja_mandadivenkata.sias24@krea.ac.in,9849469961,Pankaj Rai,Regular,Gold,₹99.00,560364576836,PR-GR-0062-159F63
+Vishnu,Peri,vishnu_peri.sias23@krea.ac.in,8790984784,Ishan Shanavas,Regular,Silver,₹79.00,523755131118,IS-SR-0063-D2AFDB
+Eka,Kachidhatla,eka_kachibhatla.sias25@krea.ac.in,9176000212,Sarika Singh,Regular,Gold,₹99.00,523758793362,SS1-GR-0064-FBE433
+Abhiroop,Pasub,abhiroop_pasub.sias25@krea.ac.in,9148584625,Pankaj Rai,Regular,Gold,₹99.00,523732197755,PR-GR-0065-071C9E
+Hrishikesh,Agrawal,hrishikesh_agrawal.sias24@krea.ac.in,9818004918,Pankaj Rai,Regular,Gold,₹99.00,523755322003,PR-GR-0066-ACC11C
+Sarah,Pershan,sarah_pershan.sias24@krea.ac.in,8828166509,Neeraj Khanna,Regular,Gold,₹99.00,560371684633,NK-GR-0067-27DF22
+Harigovind,Geetha Krishnan,harigovind_geethakrishnan.sias24@krea.ac.in,9663347101,Pankaj Rai,Regular,Gold,₹99.00,560350872002,PR-GR-0068-AB9C74
+Kritika,Mishra,kritika_mishra.sias23@krea.ac.in,7305228864,Pankaj Rai,Regular,Silver,₹79.00,560354721097,PR-SR-0069-761C83
+Suyash,Rath,suyash_rath.sias25@krea.ac.in,6372741770,Meenakshi Anantram,Regular,Gold,₹99.00,T2508252241305693985455,MA-GR-0070-2BAF63
+Suyash,Rath,suyash_rath.sias25@krea.ac.in,6372741770,Pankaj Rai,Regular,Gold,₹99.00,T2508252242400505918072,PR-GR-0071-151116
+Prisha,Mohan,prisha_mohan.sias25@krea.ac.in,8356831314,Full-Day,Full-Day,Gold,₹599.00,523763282535,FD-GF-0072-C9BB87
+Ratul,Prabhu,ratul_prabhu.sias24@krea.ac.in,9821113850,Ishan Shanavas,Regular,Silver,₹79.00,523773307770,IS-SR-0073-F292B0
+Tanushree,Jain,tanushree_jain.sias23@krea.ac.in,9152157309,Ananth Padmanabhan,Regular,Silver,₹79.00,110333613651,AP-SR-0074-242824
+Sia,Bubna,sia_bubna.bba23@krea.ac.in,7977061193,Pankaj Rai,Regular,Silver,₹79.00,110333764360,PR-SR-0075-AAAC9A
+Akshara,Lnu,akshara_lnu.bba24@krea.ac.in,9894773500,Pankaj Rai,Regular,Silver,₹79.00,110333764360,PR-SR-0076-86C17B
+Shruti,Reddy,shruti_pallamreddy.sias24@krea.ac.in,9884085224,Pankaj Rai,Regular,Silver,₹79.00,110333865081,PR-SR-0077-7F5F36
+Priya,Vishwanath,priya_vishwanath.sias22@krea.ac.in,9384063463,Pankaj Rai,Regular,Silver,₹79.00,523860093695,PR-SR-0078-A0F1FA
+Priya,Vishwanath,priya_vishwanath.sias22@krea.ac.in,9384063463,Neeraj Khanna,Regular,Platinum+,₹199.00,523860093695,NK-PPR-0079-3C0944
+Daniel,Andrade,daniel_andrade.sias24@krea.ac.in,9833054593,Ananth Padmanabhan,Regular,Silver,₹79.00,560453212196,AP-SR-0080-C93149
+Pranav,Naresh,pranav_naresh.sias23@krea.ac.in,9545570055,Full-Day,Full-Day,Faculty,₹119.00,8445148648925,

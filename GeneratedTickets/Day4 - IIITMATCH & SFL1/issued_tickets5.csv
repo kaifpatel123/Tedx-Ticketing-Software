@@ -1,0 +1,18 @@
+First Name,Last Name,Email ID,Phone No.,Speaker,Ticket Type,Ticket Tier,Ticket Price,Transaction ID,Ticket Number
+Tushar,Agrawal,tushar_agrawal.sias23@krea.ac.in,7205267834,Neeraj Khanna,Regular,Silver,₹79.00,t2508312205157353538539,NK-SR-0001-494B65
+Nithya,Anand,nithya_anand.sias23@krea.ac.in,7019245133,Ishan Shanavas,Regular,Silver,₹79.00,t2508312211434209588407,IS-SR-0002-C8FA14
+Nithya,Anand,nithya_anand.sias23@krea.ac.in,7019245133,Pankaj Rai,Regular,Silver,₹79.00,t2508312211434209588408,PR-SR-0003-ACCFC7
+Alankrita,Krishnan,alankrita_krishnan.sias23@krea.ac.in,9500081410,Ishan Shanavas,Regular,Silver,₹79.00,560994336608,IS-SR-0004-841566
+Alankrita,Krishnan,alankrita_krishnan.sias23@krea.ac.in,9500081410,Sandhya Sriram,Regular,Silver,₹79.00,560994336609,SS2-SR-0005-76F56A
+Aarjav,Jain,aarjav_jain.sias24@krea.ac.in,798735888,Pankaj Rai,Regular,Gold,₹99.00,524372562440,PR-GR-0006-DC3E30
+Suraj,Upadhyay,suraj_upadhyay.sias24@krea.ac.in,6392824780,Pankaj Rai,Early Bird,Silver,₹69.00,689971063073,PR-SE-0007-C698FD
+Mehak,Shaikh,mehak_shaikh.sias23@krea.ac.in,8291858155,Ishan Shanavas,Early Bird,Silver,₹69.00,560917478335,IS-SE-0008-DA4B92
+Rutuja,Chavan,rutuja_chavan.sias23@krea.ac.in,7796900159,Ananth Padmanabhan,Early Bird,Silver,₹69.00,560968767447,AP-SE-0009-249BD1
+Iniya,AR,iniya_ar.sias24@krea.ac.in,9566175522,Ishan Shanavas,Regular,Platinum,₹119.00,110605870321,IS-PR-0010-C63EB5
+Iniya,AR,iniya_ar.sias24@krea.ac.in,9566175522,Ananth Padmanabhan,Regular,Silver,₹79.00,110605870321,AP-SR-0011-06C8ED
+Vrithi,Arvind,vrithi_arvins.sias23@krea.ac.in,7200095410,Ishan Shanavas,Regular,Silver,₹79.00,560934923153,IS-SR-0012-E8579C
+Vrithi,Arvind,vrithi_arvins.sias23@krea.ac.in,7200095410,Ananth Padmanabhan,Regular,Silver,₹79.00,560934923153,AP-SR-0013-F98AC8
+Kadambari,Bhosale,kadambari_bhosale.sias24@krea.ac.in,9987541915,Ishan Shanavas,Regular,Gold,₹99.00,543554507418,IS-GR-0001-9974A1
+Kadambari,Bhosale,kadambari_bhosale.sias24@krea.ac.in,9987541915,Meenakshi Anantram,Regular,Gold,₹99.00,543554507418,MA-GR-0002-628BAA
+Rutuja,Wadhe,rutuja_wadhe.sias24@krea.ac.in,7522992036,Pankaj Rai,Regular,Gold,₹99.00,560934923153,PR-GR-0003-568CCE
+Vedika,Jagtap,vedika_jagtap.sias24@krea.ac.in,9665936119,Meenakshi Anantram,Regular,Gold,₹99.00,543554507419,MA-GR-0004-863EAD

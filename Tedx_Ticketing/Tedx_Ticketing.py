@@ -1,5 +1,5 @@
 # ===============================
-# TEDx KREA 2025 Ticket Generator (VS Code Version)
+# TEDx KREA 2025 Ticket Generator & Emailer
 # ===============================
 
 import os
@@ -17,8 +17,8 @@ BASE_PATH = "C:/Users/kaifp/Tedx Ticketing Software/Templates"
 
 CSV_FILE = "C:/Users/kaifp/Tedx Ticketing Software/Tedx.csv"
 
-OUTPUT_DIR = "C:/Users/kaifp/Tedx Ticketing Software/GeneratedTickets/Day4"
-LOG_FILE = os.path.join(OUTPUT_DIR, "issued_tickets4.csv")
+OUTPUT_DIR = "C:/Users/kaifp/Tedx Ticketing Software/GeneratedTickets/Day6 - Faculty DH"
+LOG_FILE = os.path.join(OUTPUT_DIR, "issued_tickets7.csv")
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
@@ -40,7 +40,6 @@ tiers = {
     "gold": "G",
     "platinum": "P",
     "platinum+": "PP",
-    "faculty": "F",
     "diamond": "D"
 }
 
